@@ -201,7 +201,7 @@ header{
     margin: 0px 30px;
     font-size: 1rem;
 }
-.box_sec12 img{
+.box_sec12 a img{
     width: 200px;
     cursor: pointer;
 }
@@ -409,3 +409,4 @@ footer{
     height: 10vh;
 
 }
+
