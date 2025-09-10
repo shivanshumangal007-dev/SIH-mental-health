@@ -202,7 +202,7 @@ header{
     font-size: 1rem;
 }
 .box_sec12 img{
-    width: 40%;
+    width: 200px;
     cursor: pointer;
 }
 
@@ -407,4 +407,5 @@ footer{
     width: 100vw;
     max-width: 100%;
     height: 10vh;
+
 }
